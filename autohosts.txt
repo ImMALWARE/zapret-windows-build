@@ -20,3 +20,4 @@ cloudflare-ech.com
 play.google.com
 instagram.com
 www.facebook.com
+lolz.guru
