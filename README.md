@@ -1,7 +1,6 @@
 # Сборка https://github.com/bol-van/zapret
 
-## Всё максимально просто:
-1. Скачиваем архив с zapret: https://github.com/ImMALWARE/zapret-windows-build/releases/download/5/zapret.zip
+1. Скачиваем архив: https://github.com/ImMALWARE/zapret-windows-build/releases/download/6/zapret.zip
 2. Распаковываем в какую-нибудь папку (например, C:\zapret)
 
 **start_now.cmd** — запустить в окне, блокировки будут обходиться пока открыто окно с zapret
